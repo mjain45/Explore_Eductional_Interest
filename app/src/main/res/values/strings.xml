@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EEI</string>
+    <string-array name="titles">
+        <item> Engineering</item>
+        <item> Management</item>
+        <item> Medical</item>
+        <item>Arts, Science ,Commerce</item>
+        <item>Media and Journalism </item>
+        <item>Animation and Fashion Designing</item>
+        <item>Law</item>
+
+    </string-array>
+    <string-array name="description">
+        <item> Explore everything you need to know about the Certified courses related to B.Tech and M.Tech.</item>
+        <item> Explore everything you need to know about the courses of B-schools. </item>
+        <item> Explore everything you need to know about the Certified courses related to MBBS,BDS. </item>
+        <item>Explore everything you need to know about the Certified courses related to Arts,Science and Commerce.</item>
+        <item>Explore everything you need to know about the Certified courses related to Mass Communication.</item>
+        <item>Explore everything you need to know about the Certified courses related to Designing.</item>
+        <item>Explore everything you need to know about the Certified courses related to Law.</item>
+
+    </string-array>
+
+</resources>
